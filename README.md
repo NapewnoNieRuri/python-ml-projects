@@ -1,4 +1,4 @@
-# Machine Learning Portfolio (Python)
+# Machine Learning (Python)
 
 This repository contains a collection of machine learning projects focused on classification and regression problems. Each project includes data preprocessing, model training, evaluation, and visualization.
 
