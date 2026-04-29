@@ -44,15 +44,3 @@ This repository contains a collection of machine learning projects focused on cl
 * Model selection and evaluation
 * Hyperparameter tuning (GridSearchCV)
 * Building ML pipelines
-
-## ▶️ How to run
-
-```bash
-pip install -r requirements.txt
-```
-
-Run each project separately (each script is independent).
-
-## 📫 Contact
-
-[Your LinkedIn / Email]
